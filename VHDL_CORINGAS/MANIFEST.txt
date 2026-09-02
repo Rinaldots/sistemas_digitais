@@ -1,0 +1,84 @@
+Arquivos VHDL coringas (reutilizaveis) - copiados sem modificacao dos projetos existentes
+
+10bit_flip_d.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ3 - TROCO/VHDL/FINAL/10bit_flip_d.vhd
+13bit_flip_d.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ4 - LIFO/VHDL/completo/13bit_flip_d.vhd
+3bit_flip_d.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ3 - TROCO/VHDL/FINAL/3bit_flip_d.vhd
+4bit_flip_d.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ4 - LIFO/VHDL/completo/4bit_flip_d.vhd
+8bit_flip_d.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ5 - PROC/VHDL/CODIGO/8bit_flip_d.vhd
+DEMUX2X1.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ3 - TROCO/VHDL/FINAL/DEMUX2X1.vhd
+DEMUX3X8.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ3 - TROCO/VHDL/FINAL/DEMUX3X8.vhd
+DEMUX4X1.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ3 - TROCO/VHDL/FINAL/DEMUX4X1.vhd
+Double_Dabble.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ4 - LIFO/VHDL/completo/Double_Dabble.vhd
+Flip-FlopD.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ2 - CONTADOR/VHDL/contador_completo/Flip-FlopD.vhd
+FlipFlopD.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ4 - LIFO/VHDL/completo/FlipFlopD.vhd
+MUX2X1__PRJ5.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ5 - PROC/VHDL/CODIGO/MUX2X1.vhd   (variante distinta de MUX2X1.vhd)
+MUX2X1__PRJ3.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ3 - TROCO/VHDL/FINAL/MUX2X1.vhd   (variante distinta de MUX2X1.vhd)
+MUX2X10.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ3 - TROCO/VHDL/FINAL/MUX2X10.vhd
+MUX2X10_2.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ3 - TROCO/VHDL/FINAL/MUX2X10_2.vhd
+MUX2X3.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ3 - TROCO/VHDL/FINAL/MUX2X3.vhd
+MUX2_3.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ3 - TROCO/VHDL/FINAL/MUX2_3.vhd
+MUX3X3.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ3 - TROCO/VHDL/FINAL/MUX3X3.vhd
+MUX4X1.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ2 - CONTADOR/VHDL/contador_completo/MUX4X1.vhd
+Registrador12Bits.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ2 - CONTADOR/VHDL/contador_completo/Registrador12Bits.vhd
+Registrador4Bits.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ2 - CONTADOR/VHDL/contador_completo/Registrador4Bits.vhd
+SOMADOR1BIT.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ3 - TROCO/VHDL/FINAL/SOMADOR1BIT.vhd
+SUBTRATOR3BITS.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ3 - TROCO/VHDL/FINAL/SUBTRATOR3BITS.vhd
+adder_10bit.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ3 - TROCO/VHDL/FINAL/adder_10bit.vhd
+adder_16bit.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ1 - ULA/VHDL/ULA/adder_16bit.vhd
+adder_2bit.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ1 - ULA/VHDL/ULA/adder_2bit.vhd
+adder_3bit.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ3 - TROCO/VHDL/FINAL/adder_3bit.vhd
+adder_4bit__PRJ2.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ2 - CONTADOR/VHDL/contador_completo/adder_4bit.vhd   (variante distinta de adder_4bit.vhd)
+adder_4bit__PRJ1.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ1 - ULA/VHDL/ULA/adder_4bit.vhd   (variante distinta de adder_4bit.vhd)
+adder_4bit__PRJ4.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ4 - LIFO/VHDL/completo/adder_4bit.vhd   (variante distinta de adder_4bit.vhd)
+and.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ1 - ULA/VHDL/ULA/and.vhd
+bancoderegistradores__PRJ4.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ4 - LIFO/VHDL/completo/bancoderegistradores.vhd   (variante distinta de bancoderegistradores.vhd)
+bancoderegistradores__PRJ5.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ5 - PROC/VHDL/CODIGO/bancoderegistradores.vhd   (variante distinta de bancoderegistradores.vhd)
+bcd_7seg__PRJ2.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ2 - CONTADOR/VHDL/contador_completo/bcd_7seg.vhd   (variante distinta de bcd_7seg.vhd)
+bcd_7seg__PRJ4.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ4 - LIFO/VHDL/completo/bcd_7seg.vhd   (variante distinta de bcd_7seg.vhd)
+bcd_7seg__PRJ5.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ5 - PROC/VHDL/CODIGO/bcd_7seg.vhd   (variante distinta de bcd_7seg.vhd)
+bcd_7seg__PRJ1.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ1 - ULA/VHDL/ULA/bcd_7seg.vhd   (variante distinta de bcd_7seg.vhd)
+bigmux16x9__PRJ5.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ5 - PROC/VHDL/CODIGO/bigmux16x9.vhd   (variante distinta de bigmux16x9.vhd)
+bigmux16x9__PRJ1.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ1 - ULA/VHDL/ULA/bigmux16x9.vhd   (variante distinta de bigmux16x9.vhd)
+bin_7_seg.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ4 - LIFO/VHDL/completo/bin_7_seg.vhd
+botão.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ3 - TROCO/VHDL/FINAL/botão.vhd
+comparador.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ2 - CONTADOR/VHDL/contador_completo/comparador.vhd
+comparador_10b.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ3 - TROCO/VHDL/FINAL/comparador_10b.vhd
+comparador_2bit.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ1 - ULA/VHDL/ULA/comparador_2bit.vhd
+comparador_4bit.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ1 - ULA/VHDL/ULA/comparador_4bit.vhd
+comparador_4bits__PRJ3.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ3 - TROCO/VHDL/FINAL/comparador_4bits.vhd   (variante distinta de comparador_4bits.vhd)
+comparador_4bits__PRJ2.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ2 - CONTADOR/VHDL/contador_completo/comparador_4bits.vhd   (variante distinta de comparador_4bits.vhd)
+comparador_mag_10b.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ3 - TROCO/VHDL/FINAL/comparador_mag_10b.vhd
+comparador_mag_3bit.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ3 - TROCO/VHDL/FINAL/comparador_mag_3bit.vhd
+comparador_zero__PRJ4.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ4 - LIFO/VHDL/completo/comparador_zero.vhd   (variante distinta de comparador_zero.vhd)
+comparador_zero__PRJ1.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ1 - ULA/VHDL/ULA/comparador_zero.vhd   (variante distinta de comparador_zero.vhd)
+decodificador.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ4 - LIFO/VHDL/completo/decodificador.vhd
+double_dabble.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ1 - ULA/VHDL/ULA/double_dabble.vhd
+four_or_tree__PRJ4.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ4 - LIFO/VHDL/completo/four_or_tree.vhd   (variante distinta de four_or_tree.vhd)
+four_or_tree__PRJ1.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ1 - ULA/VHDL/ULA/four_or_tree.vhd   (variante distinta de four_or_tree.vhd)
+fp_div_clock.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ2 - CONTADOR/VHDL/contador_completo/fp_div_clock.vhd
+mm_ram_256x16.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ5 - PROC/VHDL/CODIGO/mm_ram_256x16.vhd
+mm_ram_256x8.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ5 - PROC/VHDL/CODIGO/mm_ram_256x8.vhd
+mult_8bit.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ1 - ULA/VHDL/ULA/mult_8bit.vhd
+multiplex2x1.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ1 - ULA/VHDL/ULA/multiplex2x1.vhd
+mux16x1.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ1 - ULA/VHDL/ULA/mux16x1.vhd
+mux2x1.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ1 - ULA/VHDL/ULA/mux2x1.vhd
+mux2x13.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ4 - LIFO/VHDL/completo/mux2x13.vhd
+mux2x4bit.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ4 - LIFO/VHDL/completo/mux2x4bit.vhd
+mux2x8.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ5 - PROC/VHDL/CODIGO/mux2x8.vhd
+mux4x1.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ1 - ULA/VHDL/ULA/mux4x1.vhd
+mux4x12.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ2 - CONTADOR/VHDL/contador_completo/mux4x12.vhd
+mux4x13.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ4 - LIFO/VHDL/completo/mux4x13.vhd
+mux4x8.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ5 - PROC/VHDL/CODIGO/mux4x8.vhd
+mux8x1.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ1 - ULA/VHDL/ULA/mux8x1.vhd
+mux_4x1.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ1 - ULA/VHDL/ULA/mux_4x1.vhd
+registrador13.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ4 - LIFO/VHDL/completo/registrador13.vhd
+registrador8.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ5 - PROC/VHDL/CODIGO/registrador8.vhd
+registrador_1_10_bit.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ3 - TROCO/VHDL/FINAL/registrador_1_10_bit.vhd
+registrador_4bit.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ4 - LIFO/VHDL/completo/registrador_4bit.vhd
+registrador_6_3_bit _2.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ3 - TROCO/VHDL/FINAL/registrador_6_3_bit _2.vhd
+registrador_6_3_bit.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ3 - TROCO/VHDL/FINAL/registrador_6_3_bit.vhd
+shd.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ1 - ULA/VHDL/ULA/shd.vhd
+shl.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ1 - ULA/VHDL/ULA/shl.vhd
+somador_1bit.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ1 - ULA/VHDL/ULA/somador_1bit.vhd
+sub_10bit.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ3 - TROCO/VHDL/FINAL/sub_10bit.vhd
+subtrator.vhd  <-  /c/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ3 - TROCO/VHDL/FINAL/subtrator.vhd
