@@ -1,0 +1,76 @@
+LIBRARY ieee;
+USE ieee.std_logic_1164.ALL;
+
+ENTITY and_64bit IS
+  PORT (
+    a, b : IN STD_LOGIC_VECTOR(7 DOWNTO 0);
+    s0, s1, s2, s3, s4, s5, s6, s7 : OUT STD_LOGIC_VECTOR(7 DOWNTO 0));
+END and_64bit;
+
+ARCHITECTURE ckt OF and_64bit IS
+BEGIN
+  s0(0) <= a(0) AND b(0);
+  s0(1) <= a(0) AND b(1);
+  s0(2) <= a(0) AND b(2);
+  s0(3) <= a(0) AND b(3);
+  s0(4) <= a(0) AND b(4);
+  s0(5) <= a(0) AND b(5);
+  s0(6) <= a(0) AND b(6);
+  s0(7) <= a(0) AND b(7);
+  s1(0) <= a(1) AND b(0);
+  s1(1) <= a(1) AND b(1);
+  s1(2) <= a(1) AND b(2);
+  s1(3) <= a(1) AND b(3);
+  s1(4) <= a(1) AND b(4);
+  s1(5) <= a(1) AND b(5);
+  s1(6) <= a(1) AND b(6);
+  s1(7) <= a(1) AND b(7);
+  s2(0) <= a(2) AND b(0);
+  s2(1) <= a(2) AND b(1);
+  s2(2) <= a(2) AND b(2);
+  s2(3) <= a(2) AND b(3);
+  s2(4) <= a(2) AND b(4);
+  s2(5) <= a(2) AND b(5);
+  s2(6) <= a(2) AND b(6);
+  s2(7) <= a(2) AND b(7);
+  s3(0) <= a(3) AND b(0);
+  s3(1) <= a(3) AND b(1);
+  s3(2) <= a(3) AND b(2);
+  s3(3) <= a(3) AND b(3);
+  s3(4) <= a(3) AND b(4);
+  s3(5) <= a(3) AND b(5);
+  s3(6) <= a(3) AND b(6);
+  s3(7) <= a(3) AND b(7);
+  s4(0) <= a(4) AND b(0);
+  s4(1) <= a(4) AND b(1);
+  s4(2) <= a(4) AND b(2);
+  s4(3) <= a(4) AND b(3);
+  s4(4) <= a(4) AND b(4);
+  s4(5) <= a(4) AND b(5);
+  s4(6) <= a(4) AND b(6);
+  s4(7) <= a(4) AND b(7);
+  s5(0) <= a(5) AND b(0);
+  s5(1) <= a(5) AND b(1);
+  s5(2) <= a(5) AND b(2);
+  s5(3) <= a(5) AND b(3);
+  s5(4) <= a(5) AND b(4);
+  s5(5) <= a(5) AND b(5);
+  s5(6) <= a(5) AND b(6);
+  s5(7) <= a(5) AND b(7);
+  s6(0) <= a(6) AND b(0);
+  s6(1) <= a(6) AND b(1);
+  s6(2) <= a(6) AND b(2);
+  s6(3) <= a(6) AND b(3);
+  s6(4) <= a(6) AND b(4);
+  s6(5) <= a(6) AND b(5);
+  s6(6) <= a(6) AND b(6);
+  s6(7) <= a(6) AND b(7);
+  s7(0) <= a(7) AND b(0);
+  s7(1) <= a(7) AND b(1);
+  s7(2) <= a(7) AND b(2);
+  s7(3) <= a(7) AND b(3);
+  s7(4) <= a(7) AND b(4);
+  s7(5) <= a(7) AND b(5);
+  s7(6) <= a(7) AND b(6);
+  s7(7) <= a(7) AND b(7);
+END ckt;
