@@ -1,0 +1,250 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\rinaldo\Documents\relatorio_sd\sistemas_digitais\SD PRJ6 - LETRA\VHDL\letras
+Eletras
+Z1 w1788829281
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\Users\rinaldo\Documents\relatorio_sd\sistemas_digitais\SD PRJ6 - LETRA\VHDL\letras
+Z5 8C:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ6 - LETRA/VHDL/letras/main.vhd
+Z6 FC:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ6 - LETRA/VHDL/letras/main.vhd
+l0
+L7
+V:kcIFZH49NlUZX7OzmWVG1
+!s100 mc0bdngK<azFS7?j;i`hQ2
+Z7 OV;C;10.1d;51
+32
+!i10b 1
+Z8 !s108 1788829289.882000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ6 - LETRA/VHDL/letras/main.vhd|
+Z10 !s107 C:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ6 - LETRA/VHDL/letras/main.vhd|
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+Ackt
+R2
+R3
+Z13 DEx4 work 6 letras 0 22 :kcIFZH49NlUZX7OzmWVG1
+l120
+L15
+VW6z6:[6nd=a;g:QjM[j8j2
+!s100 Yi:aUDz;_LmjhLY@2[NYC1
+R7
+32
+!i10b 1
+R8
+R9
+R10
+R11
+R12
+Emux16x1
+Z14 w1788826855
+R2
+R3
+R4
+Z15 8C:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ6 - LETRA/VHDL/letras/mux16x1.vhd
+Z16 FC:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ6 - LETRA/VHDL/letras/mux16x1.vhd
+l0
+L4
+VagACLjOUBH@jhc_1T5YN;3
+R7
+32
+Z17 !s108 1788829289.715000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ6 - LETRA/VHDL/letras/mux16x1.vhd|
+Z19 !s107 C:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ6 - LETRA/VHDL/letras/mux16x1.vhd|
+R11
+R12
+!s100 Rdj6c^nUCjh5D]UX=ZRO@2
+!i10b 1
+Ackt
+R2
+R3
+DEx4 work 7 mux16x1 0 22 agACLjOUBH@jhc_1T5YN;3
+l30
+L12
+V<:U0T<9i<=02=iM;cgB`S3
+R7
+32
+R17
+R18
+R19
+R11
+R12
+!s100 an=eLn=^6Mli`M9PEXQ?c0
+!i10b 1
+Emux16x35
+Z20 w1788828608
+R2
+R3
+R4
+Z21 8C:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ6 - LETRA/VHDL/letras/mux16x35.vhd
+Z22 FC:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ6 - LETRA/VHDL/letras/mux16x35.vhd
+l0
+L4
+V1n4o_I_51XHm?ZW3N?FB<3
+R7
+32
+Z23 !s108 1788829289.804000
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ6 - LETRA/VHDL/letras/mux16x35.vhd|
+Z25 !s107 C:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ6 - LETRA/VHDL/letras/mux16x35.vhd|
+R11
+R12
+!s100 ZkS>_19h5>meJgNz8okUn2
+!i10b 1
+Ackt
+R2
+R3
+DEx4 work 8 mux16x35 0 22 1n4o_I_51XHm?ZW3N?FB<3
+l24
+L13
+VS=6zhjZj=:eFhU:O`7gO72
+!s100 n`jVcO=o_VY0>`h>7L>AG1
+R7
+32
+R23
+R24
+R25
+R11
+R12
+!i10b 1
+Emux2x1
+R14
+R2
+R3
+R4
+Z26 8C:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ6 - LETRA/VHDL/letras/mux2x1.vhd
+Z27 FC:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ6 - LETRA/VHDL/letras/mux2x1.vhd
+l0
+L4
+VW_WcL^O2bSOBimX6AFJ410
+R7
+32
+Z28 !s108 1788829289.403000
+Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ6 - LETRA/VHDL/letras/mux2x1.vhd|
+Z30 !s107 C:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ6 - LETRA/VHDL/letras/mux2x1.vhd|
+R11
+R12
+!s100 o9DidB^UgR:SQ6G=Rnj:U2
+!i10b 1
+Ackt
+R2
+R3
+DEx4 work 6 mux2x1 0 22 W_WcL^O2bSOBimX6AFJ410
+l12
+L11
+V[54Dn9o7k@gXN;b?T_WH:2
+R7
+32
+R28
+R29
+R30
+R11
+R12
+!s100 HI^KYX3?<]YjT_Oag8mkJ1
+!i10b 1
+Emux4x1
+R14
+R2
+R3
+R4
+Z31 8C:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ6 - LETRA/VHDL/letras/mux4x1.vhd
+Z32 FC:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ6 - LETRA/VHDL/letras/mux4x1.vhd
+l0
+L4
+Vh=A=FMVX5]2WQHm`4RiYk2
+R7
+32
+Z33 !s108 1788829289.478000
+Z34 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ6 - LETRA/VHDL/letras/mux4x1.vhd|
+Z35 !s107 C:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ6 - LETRA/VHDL/letras/mux4x1.vhd|
+R11
+R12
+!s100 9n4OE>FkP8E;AGT:9gEID0
+!i10b 1
+Ackt
+R2
+R3
+DEx4 work 6 mux4x1 0 22 h=A=FMVX5]2WQHm`4RiYk2
+l22
+L12
+VTSGX9]Ng7UEEZGnbB0CoL0
+R7
+32
+R33
+R34
+R35
+R11
+R12
+!s100 Q8KWGfJo@BbBYcODeH;H83
+!i10b 1
+Emux8x1
+R14
+R2
+R3
+R4
+Z36 8C:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ6 - LETRA/VHDL/letras/mux8x1.vhd
+Z37 FC:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ6 - LETRA/VHDL/letras/mux8x1.vhd
+l0
+L4
+V?UCG@Q4V@4T44Y1T:=DVh2
+R7
+32
+Z38 !s108 1788829289.554000
+Z39 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ6 - LETRA/VHDL/letras/mux8x1.vhd|
+Z40 !s107 C:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ6 - LETRA/VHDL/letras/mux8x1.vhd|
+R11
+R12
+!s100 cHS82<N>R>O4OF^n_kzHY3
+!i10b 1
+Ackt
+R2
+R3
+DEx4 work 6 mux8x1 0 22 ?UCG@Q4V@4T44Y1T:=DVh2
+l31
+L12
+VW0nmF^AmE?hcYaX=VEVLV3
+R7
+32
+R38
+R39
+R40
+R11
+R12
+!s100 aoXO8mBR6Wi?iE8n@5JH61
+!i10b 1
+Emux8x8
+Z41 w1788828599
+R2
+R3
+R4
+Z42 8C:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ6 - LETRA/VHDL/letras/mux8x8.vhd
+Z43 FC:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ6 - LETRA/VHDL/letras/mux8x8.vhd
+l0
+L4
+VE5_nP<cGCXRfk>e2]WhE?1
+R7
+32
+Z44 !s108 1788829289.632000
+Z45 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ6 - LETRA/VHDL/letras/mux8x8.vhd|
+Z46 !s107 C:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ6 - LETRA/VHDL/letras/mux8x8.vhd|
+R11
+R12
+!s100 GJe7Af]S2eT4fGiI?kYz?3
+!i10b 1
+Ackt
+R2
+R3
+DEx4 work 6 mux8x8 0 22 E5_nP<cGCXRfk>e2]WhE?1
+l22
+L12
+VlI2Y>D1Z1fGC]hf4XfAOh2
+R7
+32
+R44
+R45
+R46
+R11
+R12
+!s100 TZfnM`@JNQjJWggjjQe8A2
+!i10b 1

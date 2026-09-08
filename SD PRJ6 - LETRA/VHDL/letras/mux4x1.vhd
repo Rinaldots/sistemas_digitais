@@ -1,0 +1,26 @@
+LIBRARY ieee;
+USE ieee.std_logic_1164.ALL;
+
+ENTITY MUX4X1 IS
+    PORT (
+        I0, I1, I2, I3 : IN STD_LOGIC;
+        S : IN STD_LOGIC_VECTOR(1 DOWNTO 0);
+        Z : OUT STD_LOGIC
+    );
+END MUX4X1;
+
+ARCHITECTURE CKT OF MUX4X1 IS
+
+    COMPONENT MUX2X1 IS
+        PORT (
+            I0, I1, S : IN STD_LOGIC;
+            Z : OUT STD_LOGIC);
+    END COMPONENT;
+
+    SIGNAL ZX0, ZX1 : STD_LOGIC;
+
+BEGIN
+    U0 : MUX2X1 PORT MAP(I0, I1, S(0), ZX0);
+    U1 : MUX2X1 PORT MAP(I2, I3, S(0), ZX1);
+    U2 : MUX2X1 PORT MAP(ZX0, ZX1, S(1), Z);
+END CKT;

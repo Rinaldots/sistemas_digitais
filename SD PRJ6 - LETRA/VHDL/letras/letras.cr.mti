@@ -1,0 +1,41 @@
+{C:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ6 - LETRA/VHDL/letras/mux8x1.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ6 - LETRA/VHDL/letras/mux8x1.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity MUX8X1
+-- Compiling architecture CKT of MUX8X1
+
+} {} {}} {C:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ6 - LETRA/VHDL/letras/mux4x1.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ6 - LETRA/VHDL/letras/mux4x1.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity MUX4X1
+-- Compiling architecture CKT of MUX4X1
+
+} {} {}} {C:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ6 - LETRA/VHDL/letras/mux2x1.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ6 - LETRA/VHDL/letras/mux2x1.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity MUX2X1
+-- Compiling architecture CKT of MUX2X1
+
+} {} {}} {C:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ6 - LETRA/VHDL/letras/mux16x1.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ6 - LETRA/VHDL/letras/mux16x1.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity MUX16X1
+-- Compiling architecture CKT of MUX16X1
+
+} {} {}} {C:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ6 - LETRA/VHDL/letras/mux8x8.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ6 - LETRA/VHDL/letras/mux8x8.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity MUX8X8
+-- Compiling architecture CKT of MUX8X8
+
+} {} {}}
