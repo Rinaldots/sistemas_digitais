@@ -1,0 +1,5 @@
+set tool_name "ModelSim (Verilog)"
+set corner_file_list {
+	{{"Slow Model"} {letras.vo letras_v.sdo}}
+	{{"Fast Model"} {letras_fast.vo letras_v_fast.sdo}}
+}

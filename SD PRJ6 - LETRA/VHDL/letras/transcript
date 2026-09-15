@@ -1,0 +1,16 @@
+# vsim -do main.do LETRAS 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.letras(ckt)
+# Loading work.mux16x35(ckt)
+# Loading work.mux16x1(ckt)
+# Loading work.mux8x1(ckt)
+# Loading work.mux4x1(ckt)
+# Loading work.mux2x1(ckt)
+# Loading work.mux8x8(ckt)
+# ** Warning: Design size of 860 instances exceeds ModelSim ALTERA recommended capacity.
+# This may because you are loading cell libraries which are not recommended with
+# the ModelSim Altera version. Expect performance to be adversely affected.
+# do main.do 
+do main.do
