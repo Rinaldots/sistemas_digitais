@@ -1,0 +1,17 @@
+{C:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ7 - MATRIZ/8bit_flipd_d.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ7 - MATRIZ/8bit_flipd_d.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity bit8_flip_d
+-- Compiling architecture CKT of bit8_flip_d
+
+} {} {}} {C:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ7 - MATRIZ/mux2x1.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ7 - MATRIZ/mux2x1.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity MUX2X1
+-- Compiling architecture CKT of MUX2X1
+
+} {} {}}

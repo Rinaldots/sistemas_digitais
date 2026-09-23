@@ -1,0 +1,250 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\rinaldo\Documents\relatorio_sd\sistemas_digitais\SD PRJ6 - LETRA\VHDL\letras
+Eatv_4
+Z0 w1790191353
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z3 dC:\Users\rinaldo\Documents\relatorio_sd\sistemas_digitais\SD PRJ7 - MATRIZ
+Z4 8C:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ7 - MATRIZ/main.vhd
+Z5 FC:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ7 - MATRIZ/main.vhd
+l0
+L4
+V@@0nQ_^=B7k1>5ImE3?ci1
+Z6 OV;C;10.1d;51
+32
+Z7 !s108 1790191363.491000
+Z8 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ7 - MATRIZ/main.vhd|
+Z9 !s107 C:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ7 - MATRIZ/main.vhd|
+Z10 o-work work -2002 -explicit -O0
+Z11 tExplicit 1
+!s100 6]Jmlh8RY=z;`FjoN_lF`3
+!i10b 1
+Ackt
+R1
+R2
+DEx4 work 5 atv_4 0 22 @@0nQ_^=B7k1>5ImE3?ci1
+l32
+L13
+VNo6RTm<bAnM7UI:[0ELIF3
+R6
+32
+R7
+R8
+R9
+R10
+R11
+!s100 KHbHn:FTB1E6kQjTXz4T11
+!i10b 1
+Ebit8_flip_d
+Z12 w1790190944
+R1
+R2
+R3
+Z13 8C:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ7 - MATRIZ/8bit_flip_d.vhd
+Z14 FC:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ7 - MATRIZ/8bit_flip_d.vhd
+l0
+L4
+VlVXU];ic1XQW?iS<IC2O:0
+R6
+32
+Z15 !s108 1790191363.613000
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ7 - MATRIZ/8bit_flip_d.vhd|
+Z17 !s107 C:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ7 - MATRIZ/8bit_flip_d.vhd|
+R10
+R11
+!s100 9MA]H=jTP7kB9WNWYL2eV1
+!i10b 1
+Ackt
+R1
+R2
+DEx4 work 11 bit8_flip_d 0 22 lVXU];ic1XQW?iS<IC2O:0
+l23
+L12
+Vm@V=olPHYUWLUmW[J`mY=2
+R6
+32
+R15
+R16
+R17
+R10
+R11
+!s100 :>Bh_Tho@@4Fc]6X;0nO@0
+!i10b 1
+Eck_div
+Z18 w1788314841
+R1
+R2
+R3
+Z19 8C:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ7 - MATRIZ/fp_div_clock.vhd
+Z20 FC:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ7 - MATRIZ/fp_div_clock.vhd
+l0
+L29
+VzG[H<<;VFfE>cKGU_PMJY2
+!s100 4n0nTJ]5ba8CHz`H2KNUe0
+R6
+32
+!i10b 1
+Z21 !s108 1790191364.266000
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ7 - MATRIZ/fp_div_clock.vhd|
+Z23 !s107 C:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ7 - MATRIZ/fp_div_clock.vhd|
+R10
+R11
+Alogica
+R1
+R2
+DEx4 work 6 ck_div 0 22 zG[H<<;VFfE>cKGU_PMJY2
+l37
+L34
+VbB7n>PR:mR@m6L9F_Qe3c0
+!s100 P9En1Ifl]dXl;NkaBU8Sk2
+R6
+32
+!i10b 1
+R21
+R22
+R23
+R10
+R11
+Effd
+Z24 w1788314830
+R1
+R2
+R3
+Z25 8C:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ7 - MATRIZ/Flip-FlopD.vhd
+Z26 FC:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ7 - MATRIZ/Flip-FlopD.vhd
+l0
+L7
+V^PDO8:EQCZZk>dS9Qkmi60
+R6
+32
+Z27 !s108 1790191364.018000
+Z28 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ7 - MATRIZ/Flip-FlopD.vhd|
+Z29 !s107 C:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ7 - MATRIZ/Flip-FlopD.vhd|
+R10
+R11
+!s100 f:3cGL5Sje_gG8[HM95F42
+!i10b 1
+Alogica
+R1
+R2
+DEx4 work 3 ffd 0 22 ^PDO8:EQCZZk>dS9Qkmi60
+l15
+L13
+VidiKP`=THJ7THhYaSZ]Y70
+R6
+32
+R27
+R28
+R29
+R10
+R11
+!s100 1R5Y6]nKf2IOVhS1S;6HE1
+!i10b 1
+Eflipd_d
+Z30 w1790190967
+R1
+R2
+R3
+Z31 8C:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ7 - MATRIZ/flipd_d.vhd
+Z32 FC:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ7 - MATRIZ/flipd_d.vhd
+l0
+L4
+VWXUM`07IdU2GSb22`j>=[2
+R6
+32
+Z33 !s108 1790191364.142000
+Z34 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ7 - MATRIZ/flipd_d.vhd|
+Z35 !s107 C:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ7 - MATRIZ/flipd_d.vhd|
+R10
+R11
+!s100 9GTmHC5OALoBcPn3Fae`e2
+!i10b 1
+Ackt
+R1
+R2
+DEx4 work 7 flipd_d 0 22 WXUM`07IdU2GSb22`j>=[2
+l34
+L12
+VN3Cn;ZNeOQZ@be8RaAm181
+!s100 lUG_Wi3DK=8ifL70_W0jU2
+R6
+32
+R33
+R34
+R35
+R10
+R11
+!i10b 1
+Emux2x1
+Z36 w1788314842
+R1
+R2
+R3
+Z37 8C:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ7 - MATRIZ/mux2x1.vhd
+Z38 FC:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ7 - MATRIZ/mux2x1.vhd
+l0
+L4
+VW_WcL^O2bSOBimX6AFJ410
+R6
+32
+Z39 !s108 1790191363.739000
+Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ7 - MATRIZ/mux2x1.vhd|
+Z41 !s107 C:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ7 - MATRIZ/mux2x1.vhd|
+R10
+R11
+!s100 o9DidB^UgR:SQ6G=Rnj:U2
+!i10b 1
+Ackt
+R1
+R2
+DEx4 work 6 mux2x1 0 22 W_WcL^O2bSOBimX6AFJ410
+l12
+L11
+V[54Dn9o7k@gXN;b?T_WH:2
+R6
+32
+R39
+R40
+R41
+R10
+R11
+!s100 HI^KYX3?<]YjT_Oag8mkJ1
+!i10b 1
+Emux4x1
+Z42 w1788314843
+R1
+R2
+R3
+Z43 8C:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ7 - MATRIZ/MUX4X1.vhd
+Z44 FC:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ7 - MATRIZ/MUX4X1.vhd
+l0
+L4
+Vh=A=FMVX5]2WQHm`4RiYk2
+R6
+32
+Z45 !s108 1790191363.868000
+Z46 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ7 - MATRIZ/MUX4X1.vhd|
+Z47 !s107 C:/Users/rinaldo/Documents/relatorio_sd/sistemas_digitais/SD PRJ7 - MATRIZ/MUX4X1.vhd|
+R10
+R11
+!s100 9n4OE>FkP8E;AGT:9gEID0
+!i10b 1
+Ackt
+R1
+R2
+DEx4 work 6 mux4x1 0 22 h=A=FMVX5]2WQHm`4RiYk2
+l22
+L12
+VTSGX9]Ng7UEEZGnbB0CoL0
+R6
+32
+R45
+R46
+R47
+R10
+R11
+!s100 Q8KWGfJo@BbBYcODeH;H83
+!i10b 1
